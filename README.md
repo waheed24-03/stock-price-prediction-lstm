@@ -3,6 +3,11 @@
 This project addresses the challenging task of **stock market prediction** by leveraging the power of **deep learning**.
 We use a **Long Short-Term Memory (LSTM)** model (a type of Recurrent Neural Network) trained on historical stock data to identify temporal patterns and forecast the next day’s closing price.
 
+
+
+![Model Performance](Results/Output.png)
+![All Stock Plots](Results/all_stock_plots.png)
+
 The entire pipeline — from **data acquisition** to **model training** to **deployment** — is automated.
 The final product is a **Streamlit web app** where users can select a stock, view predictions, and explore model performance.
 
@@ -80,6 +85,7 @@ Here is the performance summary across 20 stocks:
 
 - Yahoo Finance API (via yfinance)
 - Streamlit community
+
 
 
 
