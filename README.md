@@ -86,6 +86,12 @@ Here is the performance summary across 20 stocks:
 - Yahoo Finance API (via yfinance)
 - Streamlit community
 
+# 👤 Author
+# Syed Abdul Waheed
+# Data Science Enthusiast | Python Developer | Automation Explorer
+
+- 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
+- 🐙 GitHub: waheed24-03
 
 
 
