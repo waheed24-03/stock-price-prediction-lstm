@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Conda / virtual environments (if inside project)
+ml-main/
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow / Keras models & logs
+*.h5
+*.pb
+*.ckpt
+logs/
+checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# Data files (optional — ignore large datasets)
+data/
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
