@@ -71,16 +71,16 @@ Here is the performance summary across 20 stocks:
 
 
 🔮 Future Enhancements
-📊 Multivariate Analysis: Add volume, RSI, MACD, and sentiment data.
-⚡ Hyperparameter Tuning: Automated search (KerasTuner).
-☁️ Cloud Deployment: Deploy on AWS/GCP/Heroku for permanent hosting.
+- 📊 Multivariate Analysis: Add volume, RSI, MACD, and sentiment data.
+- ⚡ Hyperparameter Tuning: Automated search (KerasTuner).
+- ☁️ Cloud Deployment: Deploy on AWS/GCP/Heroku for permanent hosting.
 
 
  Acknowledgements
 
-Yahoo Finance API (via yfinance)
-Streamlit community
-TensorFlow & Keras team
+- Yahoo Finance API (via yfinance)
+- Streamlit community
+
 
 
 
