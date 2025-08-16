@@ -9,7 +9,8 @@ The final product is a **Streamlit web app** where users can select a stock, vie
 ---
 
 ## 🚀 Live Demo
-🔗 [Try the App Here]()
+🔗 [https://waheed-stock-prediction.streamlit.app/]()
+
 
 
 ---
@@ -80,6 +81,7 @@ Here is the performance summary across 20 stocks:
 Yahoo Finance API (via yfinance)
 Streamlit community
 TensorFlow & Keras team
+
 
 
 
