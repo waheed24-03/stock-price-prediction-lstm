@@ -1,0 +1,13 @@
+# Core Libraries for Data Science and Machine Learning
+pandas==2.3.1
+numpy==1.26.4
+scikit-learn==1.7.1
+matplotlib==3.10.5
+tensorflow==2.16.2
+
+# Library for Financial Data
+yfinance==0.2.40
+
+# Libraries for Web App and Interactive Plotting
+streamlit==1.48.1
+plotly==6.0.0
