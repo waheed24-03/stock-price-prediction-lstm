@@ -4,8 +4,9 @@ This project addresses the challenging task of **stock market prediction** by le
 We use a **Long Short-Term Memory (LSTM)** model (a type of Recurrent Neural Network) trained on historical stock data to identify temporal patterns and forecast the next day’s closing price.
 
 
-
+- Output
 ![Model Performance](Results/Output.png)
+- All Trained Model Plots
 ![All Stock Plots](Results/all_stock_plots.png)
 
 The entire pipeline — from **data acquisition** to **model training** to **deployment** — is automated.
@@ -91,6 +92,7 @@ Here is the performance summary across 20 stocks:
 
 - 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
 - 🐙 GitHub: waheed24-03
+
 
 
 
