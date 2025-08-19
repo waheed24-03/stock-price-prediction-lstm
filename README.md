@@ -74,7 +74,12 @@ Here is the performance summary across 20 stocks:
 
 ---
 
-
+``` bash
+- git clone https://github.com/waheed24-03/stock-price-prediction-lstm
+- cd stock-prediction-lstm
+- pip install -r requirements.txt
+- streamlit run app.py
+```
 
 🔮 Future Enhancements
 - 📊 Multivariate Analysis: Add volume, RSI, MACD, and sentiment data.
@@ -92,6 +97,7 @@ Here is the performance summary across 20 stocks:
 
 - 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
 - 🐙 GitHub: waheed24-03
+
 
 
 
