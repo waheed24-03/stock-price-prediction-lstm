@@ -15,10 +15,7 @@ The final product is a **Streamlit web app** where users can select a stock, vie
 ---
 
 ## 🚀 Live Demo
-🔗 [[https://waheed-stock-prediction.streamlit.app/](https://waheed-stock-price-prediction-lstm.streamlit.app/)]()
-
-
-
+🔗 [[https://waheed-stock-prediction.streamlit.app/](https://waheed-stock-price-prediction-lstm.streamlit.app/)]
 ---
 
 ## ✨ Key Features
@@ -96,6 +93,7 @@ Here is the performance summary across 20 stocks:
 -  Data Science Enthusiast | Python Developer | Automation Explorer
 - 📬 Connect: LinkedIn (https://www.linkedin.com/in/syed-abdul-waheed/)
 - 🐙 GitHub: waheed24-03
+
 
 
 
