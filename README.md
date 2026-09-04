@@ -116,6 +116,31 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ---
+                    USER
+                      ↓
+             Natural language
+                      ↓
+               Query Planner
+                      ↓
+        ┌─────────────┴─────────────┐
+        ↓                           ↓
+   Structured data            Unstructured data
+        ↓                           ↓
+ SQL/Pandas analysis             RAG/NLP
+        ↓                           ↓
+        └─────────────┬─────────────┘
+                      ↓
+                 Validation
+                      ↓
+              Insight Generation
+                      ↓
+          ┌───────────┼───────────┐
+          ↓           ↓           ↓
+       Chart       Dashboard    Report
+                                  ↓
+                            PDF / Export
+
+                            
 
 ## 👤 Author
 
